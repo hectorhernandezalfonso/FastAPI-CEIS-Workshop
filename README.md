@@ -36,8 +36,8 @@ app/
 
 ### 1. Clone the repo
 
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/hectorhernandezalfonso/FastAPI-CEIS-Workshop.git
+cd folder
 
 ---
 
