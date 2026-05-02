@@ -17,11 +17,22 @@ This API exposes multiple AI-powered endpoints:
 ## Project Structure
 
 app/
+
 ├── main.py
+
+
 ├── routers/
+
+
 ├── services/
+
+
 ├── models/
+
+
 └── schemas/
+
+
 
 ### Architecture
 
@@ -37,6 +48,8 @@ app/
 ### 1. Clone the repo
 
 git clone https://github.com/hectorhernandezalfonso/FastAPI-CEIS-Workshop.git
+
+
 cd folder
 
 ---
