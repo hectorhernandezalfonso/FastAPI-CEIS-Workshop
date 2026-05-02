@@ -1,0 +1,10 @@
+from pydantic import BaseModel
+from typing import List
+
+class ClassificationRequest(BaseModel):
+    text: str
+    labels: List[str]
+
+class ClassificationResponse(BaseModel):
+    labels: List[str]
+    scores: List[float]
